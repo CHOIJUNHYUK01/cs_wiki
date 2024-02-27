@@ -80,16 +80,3 @@ PDU에 따라 부르는 게 더 맞는 표현이다.
 TCP/IP 4계층은 OSI 7계층 모델로 설명하기도 한다.
 OSI 계층은 애플리케이션 계층을 세 개로 쪼개고, 링크 계층을 데이터 링크 계층, 물리 계층으로 나눠서 표현한다.
 인터넷 계층을 네트워크 계층으로 부른다.
-
-`OSI 7 Layer` -> `TCP/IP`
-
-Application Layer
-Presentation Layer -> Application Layer
-Session Layer
-
-Transport Layer -> Transport Layer
-
-Network Layer -> Internet Layer
-
-Data-Link Layer -> Network Access Layer
-Physical Layer
