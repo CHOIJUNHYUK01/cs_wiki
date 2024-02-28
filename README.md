@@ -34,3 +34,5 @@
 |인터넷 계층|[이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/network-layer.md)|
 |3-웨이 핸드셰이크|[이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/handshake-three.md)|
 |4-웨이 핸드셰이크|[이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/handshake-four.md)|
+|라우팅과 라우터|[이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/about-routing.md)|
+|ip주소와 mac주소|[이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/about-ip-mac.md)|
