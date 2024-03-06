@@ -38,3 +38,6 @@
 | ip주소와 mac주소                                | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/about-ip-mac.md)      |
 | 클래스풀                                        | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/about-classful.md)    |
 | 클래스리스                                      | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/about-classless.md)   |
+| 공인IP와 사설IP                                 | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/public-private-ip.md) |
+| HTTP/1                                          | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/diff-http1.md)        |
+| HTTP/2, 3                                       | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/http2-3.md)           |
