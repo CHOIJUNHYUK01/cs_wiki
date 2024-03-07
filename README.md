@@ -41,3 +41,5 @@
 | 공인IP와 사설IP                                 | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/public-private-ip.md) |
 | HTTP/1                                          | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/diff-http1.md)        |
 | HTTP/2, 3                                       | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/http2-3.md)           |
+| 암호화                                          | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/https-tls.md)         |
+| TLS 핸드셰이크                                  | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/tls-handshake.md)     |
