@@ -43,3 +43,7 @@
 | HTTP/2, 3                                       | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/http2-3.md)           |
 | 암호화                                          | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/https-tls.md)         |
 | TLS 핸드셰이크                                  | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/tls-handshake.md)     |
+| 로컬 스토리지                                   | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/localstorage.md)      |
+| 세션 스토리지                                   | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/sessionstorage.md)    |
+| 쿠키                                            | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/cookie.md)            |
+| 웹브라우저 캐시 공통점과 차이점                 | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/diff-cache.md)        |
