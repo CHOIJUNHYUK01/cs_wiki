@@ -49,3 +49,8 @@
 | 웹브라우저 캐시 공통점과 차이점                 | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/diff-cache.md)         |
 | 세션기반인증방식                                | [이동하기](ttps://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/session-based-login.md) |
 | 토큰기반인증방식                                | [이동하기](ttps://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/token-based-login.md)   |
+| GET과 POST                                      | [이동하기](ttps://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/get-vs-post.md)         |
+| PUT과 PATCH                                     | [이동하기](ttps://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/put-vs-patch.md)        |
+| 네트워크 장비                                   | [이동하기](ttps://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/network-device.md)      |
+| 유선랜                                          | [이동하기](ttps://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/line-lan.md)            |
+| 무선랜                                          | [이동하기](ttps://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/non-line-lan.md)        |
