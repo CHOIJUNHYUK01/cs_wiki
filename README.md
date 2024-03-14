@@ -55,3 +55,5 @@
 | 유선랜                                          | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/line-lan.md)            |
 | 무선랜                                          | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/non-line-lan.md)        |
 | REST API                                        | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/rest-api.md)            |
+| 브라우저 렌더링 과정                            | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/browser-rendering.md)   |
+| CORS                                            | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/about-cors.md)          |
