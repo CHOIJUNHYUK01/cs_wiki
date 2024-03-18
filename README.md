@@ -57,3 +57,10 @@
 | REST API                                        | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/rest-api.md)            |
 | 브라우저 렌더링 과정                            | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/browser-rendering.md)   |
 | CORS                                            | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/network/about-cors.md)          |
+
+### 운영체제
+
+| 주제                           | 링크                                                                                                  |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| 운영체제와 컴퓨터시스템의 구조 | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/os/computer-system.md) |
+| 시스템콜과 modebit             | [이동하기](https://github.com/CHOIJUNHYUK01/cs_wiki/blob/main/CS-vible-lecture/os/systemcall.md)      |
